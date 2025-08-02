@@ -2,3 +2,5 @@ github.com/alfianchii/golang-module-say-hello v1.0.0 h1:4Uled36XFbXdqBpRy4o904n5
 github.com/alfianchii/golang-module-say-hello v1.0.0/go.mod h1:Umb/VZqE4vOTfp6FNTwhjqGfFsShFoMHH8Xh4YdoZjo=
 github.com/alfianchii/golang-module-say-hello v1.5.0 h1:qCOy3SpX4U6QBS7pLeELbrJu3z2aMWY9uCPcDHjHb9U=
 github.com/alfianchii/golang-module-say-hello v1.5.0/go.mod h1:Umb/VZqE4vOTfp6FNTwhjqGfFsShFoMHH8Xh4YdoZjo=
+github.com/alfianchii/golang-module-say-hello/v2 v2.0.0 h1:1HWrIIBVp4Ys5vLM/Nut7ptWquWz0FqDtKTJ6RzS/wg=
+github.com/alfianchii/golang-module-say-hello/v2 v2.0.0/go.mod h1:/XTo3ai5rbYqJf5uoVREaYK04iD8DKMMQij4fHFzRbI=
